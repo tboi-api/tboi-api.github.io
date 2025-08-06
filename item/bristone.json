@@ -1,0 +1,15 @@
+{
+	"name": "brimstone",
+	"id": 118,
+	"quality": 4,
+	"description": "Blood laser barrage",
+	"pool": [
+		"nh ultra secret",
+		"nh devil",
+		"gd devil"
+	],
+	"image": "https://bindingofisaacrebirth.wiki.gg/images/4/46/Collectible_Brimstone_icon.png?205c38=&format=original",
+	"transformation":[
+		"Leviathan"
+	]
+}
